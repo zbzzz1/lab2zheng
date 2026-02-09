@@ -1,5 +1,6 @@
 /** Project: Lab2 Monsters
- * Purpose Details: Monsters Main
+ * Purpose Details: Main.java
+ * monster
  * Course: IST242
  * Author: Ziyan Zheng
  * Date Developed: 02/04/26

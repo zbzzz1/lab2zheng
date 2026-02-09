@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"<Unnamed>","l":"Ghost"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MonsterPower","k":"9"},{"p":"<Unnamed>","l":"Monsters"},{"p":"<Unnamed>","l":"Vampire"},{"p":"<Unnamed>","l":"Werewolf"}];updateSearchResults();
