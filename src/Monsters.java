@@ -7,15 +7,6 @@
  * Rev: 1.0
  */
 
-/** Project: Lab2 Monsters
- * Purpose Details: Monsters Main
- * Course: IST242
- * Author: Ziyan Zheng
- * Date Developed: 02/04/26
- * Last Date Changed: 02/08/26
- * Rev: 1.0
- */
-
 /**
  * Adds two numbers and returns the result.
  *
