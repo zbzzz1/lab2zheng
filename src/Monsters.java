@@ -67,3 +67,4 @@ public abstract sealed class Monsters
     public MonsterPower getSpecialPower() { return specialPower; }
     public void setSpecialPower(MonsterPower specialPower) { this.specialPower = specialPower; }
 }
+
